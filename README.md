@@ -9,22 +9,6 @@
   - Xampp or any other control panel like Wampp
   - Composer
   
-# Installation  
-  
-  - Clone the repo into your local machine and put it `C:\xampp\htdocs\your-folder-name-here`
-  - Open phpmyadmin
-  - Create database called `co-workingspaces`
-  - Import database file which is in `Database file to import` folder into the database
-  - For Mail service, You should add your credentials data inside `.env` file
-      
-      `MAIL_DRIVER=smtp MAIL_HOST=smtp.gmail.com MAIL_PORT=587  MAIL_USERNAME=your gmail email  MAIL_PASSWORD=your gmail pass here  MAIL_ENCRYPTION=tls`
-      
-  - open new terminal and run command `php artisan storage:link` to link storage to public directory    
-  - Go inside your project root directory and open new terminal and run command `php artisan serve`
-  - Open browser and hit url `http://127.0.0.1:8000/dashboard/login`
-  - Login with email `makanak@gmail.com` and pass `cubes15152020` as a demo
-  - Boom your are in the right place....
-  
 # Features
 
   - Machine learning model for Forecasting regarding next month booking requests, which adds significant value for the coworking space's owner 
@@ -53,16 +37,23 @@
         
    ![Booking analysis](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/book_analytics.PNG)
    ![Booking analysis](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/book_analytics2.PNG)
-   
-    
-  - Verify Reservation, Delete Reservation
+   ![Profit](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/profit_analysis.PNG)
+   ![Users analysis](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/users_analytics.PNG)
+ 
   - View monthly profit
+  
+  ![Monthly profit](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/profit_tracking1.PNG)
+  
+  - Manage Offers: Owner can publish new offers or promotions to public users or specified users due to their loyality degree.
+  
+  ![Offers](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/offers.PNG)
+  
+  - Verify Reservation, Delete Reservation
   - Send Email to User
   - Add New Current View: Owner can add a view of his\here co-working space at the current state through images.
   - Manage Co-working Desks
   - Manage Equipments
   - Manage Facilities
-  - Manage Offers: Owner can publish new offers or promotions to public users or specified users due to their loyality degree.
   - Manage reviews about his/her coworking space which later can be used for sentiment analysis.
   - Add new posts to the coworking space's timeline like facebook to interact with users.
   - Manage Support Issues: Owner can reply to end user complaining about some issues through sending an email to them with solutions.
@@ -72,7 +63,21 @@
   - Update Profile Settings.
   - Disable Co-working Profile.
 
-  ![Logo](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/cubes.png)
+# Installation  
+  
+  - Clone the repo into your local machine and put it `C:\xampp\htdocs\your-folder-name-here`
+  - Open phpmyadmin
+  - Create database called `co-workingspaces`
+  - Import database file which is in `Database file to import` folder into the database
+  - For Mail service, You should add your credentials data inside `.env` file
+      
+      `MAIL_DRIVER=smtp MAIL_HOST=smtp.gmail.com MAIL_PORT=587  MAIL_USERNAME=your gmail email  MAIL_PASSWORD=your gmail pass here  MAIL_ENCRYPTION=tls`
+      
+  - open new terminal and run command `php artisan storage:link` to link storage to public directory    
+  - Go inside your project root directory and open new terminal and run command `php artisan serve`
+  - Open browser and hit url `http://127.0.0.1:8000/dashboard/login`
+  - Login with email `makanak@gmail.com` and pass `cubes15152020` as a demo
+  - Boom your are in the right place....  
     
     
     
