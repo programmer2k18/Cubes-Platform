@@ -15,7 +15,9 @@
       and monitoring performance indicators.
   
   ![Forecasting](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/forecasting.PNG)
+  
   - Forecasting Filtering
+  
   ![Forecasting_filtering](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/forecasting2.PNG)
  
  
