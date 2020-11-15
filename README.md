@@ -19,6 +19,7 @@
       
       `MAIL_DRIVER=smtp MAIL_HOST=smtp.gmail.com MAIL_PORT=587  MAIL_USERNAME=your gmail email  MAIL_PASSWORD=your gmail pass here  MAIL_ENCRYPTION=tls`
       
+  - open new terminal and run command `php artisan storage:link` to link storage to public directory    
   - Go inside your project root directory and open new terminal and run command `php artisan serve`
   - Open browser and hit url `http://127.0.0.1:8000/dashboard/login`
   - Login with email `makanak@gmail.com` and pass `cubes15152020` as a demo
@@ -28,6 +29,10 @@
 
   - Machine learning model for Forecasting regarding next month booking requests, which adds significant value for the coworking space's owner 
       and monitoring performance indicators.
+  
+  ![Forecasting](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/forecasting.PNG)
+  ![Forecasting_filtering](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/forecasting2.PNG)
+ 
  
   - Booking Request Coming posibilities Classification model: o	Automatically System will classify upcoming booking requests to if really 
       the booking’s user will come or not and showing its probability.   
