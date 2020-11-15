@@ -1,7 +1,7 @@
 # Cubes-Platform
-# Coworking spaces platform dashboard that provides significant operations and insights for the owner of coworking space.
+- Coworking spaces platform dashboard that provides significant operations and insights for the owner of coworking space.
 
-# They suffer from the lack of a regulatory system for booking, especially when there are more than one principal. So, it leads to randomness and chaos. In addition to following same traditional ways of communication with clients. Besides, still depending on paper work, which is a bad and outdated approach and also lack of a system which provides him with graphs or charts to evaluate and monitor place performance.
+- They suffer from the lack of a regulatory system for booking, especially when there are more than one principal. So, it leads to randomness and chaos. In addition to following same traditional ways of communication with clients. Besides, still depending on paper work, which is a bad and outdated approach and also lack of a system which provides him with graphs or charts to evaluate and monitor place performance.
 
 # Requirements
   
