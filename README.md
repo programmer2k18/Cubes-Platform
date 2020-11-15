@@ -60,6 +60,7 @@
   - Update Profile Settings.
   - Disable Co-working Profile.
 
+  ![Logo](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/cubes.png)
     
     
     
