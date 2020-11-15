@@ -31,11 +31,14 @@
       and monitoring performance indicators.
   
   ![Forecasting](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/forecasting.PNG)
+  - Forecasting Filtering
   ![Forecasting_filtering](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/forecasting2.PNG)
  
  
   - Booking Request Coming posibilities Classification model: o	Automatically System will classify upcoming booking requests to if really 
       the booking’s user will come or not and showing its probability.   
+      
+  ![booking](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/upcomming.PNG)
 
   - Show Statistic Charts.
   
@@ -47,6 +50,10 @@
 	    - A chart comparing profit for current and last year divided monthly.
 	    - A chart explaining the top 10 booked users.
 	    - A chart explaining the most frequent booked user’s ages.
+        
+   ![Booking analysis](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/book_analytics.PNG)
+   ![Booking analysis](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/book_analytics2.PNG)
+   
     
   - Verify Reservation, Delete Reservation
   - View monthly profit
