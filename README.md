@@ -60,7 +60,7 @@
   
   ![Support](https://github.com/programmer2k18/Cubes-Platform/blob/master/public/cubes_plateform/inbox.PNG)
   
-  - Verify Reservation, Delete Reservation
+  - Verify Reservation, Delete Reservation.
   - Add New Current View: Owner can add a view of his\here co-working space at the current state through images.
   - Manage Equipments
   - Manage Facilities
